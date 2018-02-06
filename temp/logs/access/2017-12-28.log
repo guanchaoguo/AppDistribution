@@ -1,0 +1,12 @@
+Time                   Status  Latency  IP   Method  Path
+2017/12/28 - 15:36:21  200     7.019ms  ::1  GET     /
+Time                   Status  Latency    IP   Method  Path
+2017/12/28 - 15:36:30  200     14.0377ms  ::1  GET     /getCaptcha
+Time                   Status  Latency  IP   Method  Path
+2017/12/28 - 15:36:55  404     0s       ::1  GET     /captcha/Ilpfoy7V48MAHNQ8HrVkD5ocaQjI2mNO
+Time                   Status  Latency  IP   Method  Path
+2017/12/28 - 15:36:55  404     501.3µs  ::1  GET     /captcha/Ilpfoy7V48MAHNQ8HrVkD5ocaQjI2mNO
+Time                   Status  Latency  IP   Method  Path
+2017/12/28 - 15:37:39  404     0s       ::1  GET     /captcha/captcha/Ilpfoy7V48MAHNQ8HrVkD5ocaQjI2mNO
+Time                   Status  Latency  IP   Method  Path
+2017/12/28 - 15:37:39  404     0s       ::1  GET     /captcha/captcha/Ilpfoy7V48MAHNQ8HrVkD5ocaQjI2mNO
